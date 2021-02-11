@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                                   | OS required                        |
 | -------- | ----------------------------------------------------------------------------------------------------| -----------------------------------|
-|    9     |   Google Colab / Python 3.x                                                                         | Windows, Mac OS X, and Linux (Any) |
+|    3     |   Google Colab / Python 3.x                                                                         | Windows, Mac OS X, and Linux (Any) |
 |    4     |   Google Colab / Python 3.x                                                                         | Windows, Mac OS X, and Linux (Any) |
 |    6     |   Google Colab / Python 3.x                                                                         | Windows, Mac OS X, and Linux (Any) |
 |    7     |   Google Colab / Python 3.x                                                                         | Windows, Mac OS X, and Linux (Any) |
