@@ -61,6 +61,16 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838821593_ColorImages.pdf).
 
+## Errata
+
+* Page 26 (Chapter 1, Learning position with positional encoding):
+The formula should be:
+
+<img src = "https://github.com/PacktPublishing/Getting-Started-with-Google-BERT/blob/main/Errata_images/chapter1_10000.PNG">
+
+instead of 
+
+<img src = "https://github.com/PacktPublishing/Getting-Started-with-Google-BERT/blob/main/Errata_images/chapter1_1000.png">
 
 ### Related products <Other books you may enjoy>
 * Hands-On Python Natural Language Processing [[Packt]](https://www.packtpub.com/product/hands-on-python-natural-language-processing/9781838989590) [[Amazon]](https://www.amazon.com/dp/1838989595)
