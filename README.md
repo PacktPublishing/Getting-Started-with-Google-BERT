@@ -79,3 +79,7 @@ instead of
 
 ## Get to Know the Author
 **Sudharsan Ravichandiran** is a data scientist, researcher, bestselling author. He completed his Bachelor's in Information Technology at Anna University. His area of research focuses on practical implementations of deep learning and reinforcement learning, including Natural Language Processing and computer vision. He is an open-source contributor and loves answering questions on Stack Overflow. He also authored a best-seller, Hands-On Reinforcement Learning with Python, published by Packt Publishing.	
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838821593">https://packt.link/free-ebook/9781838821593 </a> </p>
